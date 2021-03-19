@@ -1,4 +1,4 @@
-# Anomaly_Detection_Tuto
+# Anomaly Detection Tutorial
 
 Anomaly detection tutorial on univariate time series with auto-encoder
 
